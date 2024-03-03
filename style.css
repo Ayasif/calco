@@ -1,0 +1,19 @@
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(215, 215, 215);
+    border-radius: 10px;
+    width: 340px;
+    padding-bottom: 15px;
+}
+.container table input.btn
+{
+    margin: 1px;
+    border-radius: 5px;
+}
+input
+{
+    text-align: center;
+}
